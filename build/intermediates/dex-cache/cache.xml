@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\68c85396022e80e18079ccbab60f2c2888756fb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b155bf16282306d7435b7b35602f820d79175f71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\d0ab289ee330c1a26bbce81411dd7a8612460572\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3aaa336b22e73db8fabf47e6d611e56772ca8ff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\7771fabfc56d4ba447056cfe9d475049b1e59183\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_2674fba6a0fcb8a5caaeabb87f312a2541d3bbcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\68c85396022e80e18079ccbab60f2c2888756fb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_b155bf16282306d7435b7b35602f820d79175f71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\cc5793d3a5a11ac32191cbbdeaa075eb8214bd0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_7192790c0ffc11492008d0a7767dcaebb4ed515e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\cc5793d3a5a11ac32191cbbdeaa075eb8214bd0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7192790c0ffc11492008d0a7767dcaebb4ed515e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\7b5c504ade824e921706ea00257319ec78d312e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_d5d1c9b88ed38ac607e2e05ca5f9c842a3490512.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_a5deab7a9d1c3f0f386e76087cf9f3506577f257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\7b5c504ade824e921706ea00257319ec78d312e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5d1c9b88ed38ac607e2e05ca5f9c842a3490512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\8fa3bdb61639ae1d2891dc6e9daba1802504750c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32adab01c61ae81d2750439b4fe5e6c1ffe3eb66\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a5deab7a9d1c3f0f386e76087cf9f3506577f257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\8fa3bdb61639ae1d2891dc6e9daba1802504750c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_32adab01c61ae81d2750439b4fe5e6c1ffe3eb66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\IRNElectionReportingApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6aecb49d4107f4fc1e254f12cbd6dfa2492da2b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\98f5e567ad5fef624c01290e43665e3225ef0ec9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_610b9ec60569051de743634c7c1c132546efb5a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\8b45978d338702f5c033059c6ca1f188affe4255\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_871d457e91babc0da5847a92d05c6e462d6b1294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\IRNElectionReportingApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a97c9784bd67e2c7444c64fa2f05e1225ec71d8">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_960c067e93179d2a8d5799863355e3332022889a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\f9c1f7018226488bd4f92270f4b798ddbbda070b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4b8de4f84a46d664ce7c1b2591fe51a4572ae8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\68f116f37759258efca24dc7c869afa7378e1afc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_82f64b639ccd868d0154033fa3f3e58b326a2fc4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\68f116f37759258efca24dc7c869afa7378e1afc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82f64b639ccd868d0154033fa3f3e58b326a2fc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\f9c1f7018226488bd4f92270f4b798ddbbda070b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_d4b8de4f84a46d664ce7c1b2591fe51a4572ae8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_f2f0ebba2a0495f7b9ed3c67ca8411db7afbfb91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\ab3fc9983b63197484add4574c43909e7e6cf1a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_2b2fdf6527610830466b8e58e39445ceeca28b07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\2ecdc6b5390bd6266e8964cf6c64775dea6759ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_4e332e6a01188f1fecc6704f1294a98ed7ece1ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\2ecdc6b5390bd6266e8964cf6c64775dea6759ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e332e6a01188f1fecc6704f1294a98ed7ece1ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ishmael\.android\build-cache\632458cf8cbb20a20461edb0ff495a4a1ae5fb1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\pre-dexed\debug\classes_b7db293f68d0f17a3ae09736b5592dd4b014cc16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\ab3fc9983b63197484add4574c43909e7e6cf1a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b2fdf6527610830466b8e58e39445ceeca28b07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ishmael\.android\build-cache\632458cf8cbb20a20461edb0ff495a4a1ae5fb1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Projects\IRNElectionReportingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7db293f68d0f17a3ae09736b5592dd4b014cc16\classes.dex" />
+    </item>
+
+</items>
